@@ -1,0 +1,2 @@
+listen-address 0.0.0.0:80
+forward-socks5 / localhost:9050 .
